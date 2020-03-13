@@ -9,14 +9,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="149.64417mm"
+   width="178.52721mm"
    height="100.25325mm"
-   viewBox="0 0 149.64416 100.25325"
+   viewBox="0 0 178.5272 100.25325"
    version="1.1"
    id="svg847"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="ssh-cli.svg"
-   inkscape:export-filename="/Users/vandaele/Documents/fun/senslab/www-iotlab/schemas/ssh-cli.png"
+   inkscape:export-filename="/Users/vandaele/Documents/fun/senslab/www-iotlab/schemas/Images/ssh-cli.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
   <defs
@@ -586,6 +586,16 @@
        apply_no_weight="true"
        apply_with_weight="true"
        only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1058-3"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -594,11 +604,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3880816"
-     inkscape:cx="301.12898"
-     inkscape:cy="172.8836"
+     inkscape:zoom="0.97250323"
+     inkscape:cx="312.69567"
+     inkscape:cy="189.45496"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="856"
@@ -614,8 +624,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid1533"
-       originx="-27.48254"
-       originy="-16.834483" />
+       originx="-27.482538"
+       originy="-16.834485" />
   </sodipodi:namedview>
   <metadata
      id="metadata844">
@@ -629,6 +639,30 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="texte 1">
+    <path
+       style="display:inline;fill:none;stroke:#b3b3b3;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 168.52721,48.738502 c -23.06598,0 -46.13222,0 -69.198736,0"
+       id="path1056"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect1058-3"
+       inkscape:original-d="m 168.52721,48.738502 c -23.06598,-2.65e-4 -46.13222,-2.65e-4 -69.198736,0"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text1238"
+       y="46.67104"
+       x="124.77296"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan1240"
+         x="124.77296"
+         y="46.67104">SSH TUNNEL</tspan></text>
+  </g>
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
@@ -720,17 +754,5 @@
      id="layer4"
      inkscape:label="texte"
      style="display:inline"
-     transform="translate(-27.48254,-92.91227)">
-    <text
-       id="text1218"
-       y="131.9196"
-       x="75.274124"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.05119705px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.14381179"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan1220"
-         x="75.274124"
-         y="131.9196"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.05119705px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080">SSH</tspan></text>
-  </g>
+     transform="translate(-27.48254,-92.91227)" />
 </svg>

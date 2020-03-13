@@ -14,30 +14,29 @@ C - Interact
 D - Total
 ![design-infra-total](Images/design-infra-total.png)
 
+## Serial link
+
+![serial-link](Images/serial-link.png)
+
 ## Serial aggregator
 
 ![serial-aggregator](Images/serial-aggregator.png)
 
+## Sniffer aggregator
+
+![sniffer-aggregator](Images/sniffer-aggregator.png)
+
 ## Monitoring
 
-A - Simple icons
-![monitoring1](Images/monitoring1.png)
+![monitoring1](Images/monitoring.png)
 
-B - Icons in magnifying glass
-![monitoring2](Images/monitoring2.png)
+## Debug
 
-C - With file path
-![monitoring3](Images/monitoring3.png)
-
-## Debugger
-TODO
+![debug](Images/debug.png)
 
 ## SSH-cli
 
 ![ssh-cli](Images/ssh-cli.png)
-
-## WS-cli
-TODO
 
 ## IPv6
 TODO
