@@ -3,38 +3,38 @@
 ## Infrastructure design
 
 A - Minimal
-![design-infra-minimal](design-infra-minimal.png)
+![design-infra-minimal](Images/design-infra-minimal.png)
 
 B - Layers
-![design-infra-layers](design-infra-layers.png)
+![design-infra-layers](Images/design-infra-layers.png)
 
 C - Interact
-![design-infra-interact](design-infra-interact.png)
+![design-infra-interact](Images/design-infra-interact.png)
 
 D - Total
-![design-infra-total](design-infra-total.png)
+![design-infra-total](Images/design-infra-total.png)
 
 ## Serial aggregator
 
-![serial-aggregator](serial-aggregator.png)
+![serial-aggregator](Images/serial-aggregator.png)
 
 ## Monitoring
 
 A - Simple icons
-![monitoring1](monitoring1.png)
+![monitoring1](Images/monitoring1.png)
 
 B - Icons in magnifying glass
-![monitoring2](monitoring2.png)
+![monitoring2](Images/monitoring2.png)
 
 C - With file path
-![monitoring3](monitoring3.png)
+![monitoring3](Images/monitoring3.png)
 
 ## Debugger
 TODO
 
 ## SSH-cli
 
-![ssh-cli](ssh-cli.png)
+![ssh-cli](Images/ssh-cli.png)
 
 ## WS-cli
 TODO
