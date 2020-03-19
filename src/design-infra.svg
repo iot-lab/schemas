@@ -349,10 +349,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.78395062"
-     inkscape:cx="497.38883"
-     inkscape:cy="345.67041"
+     inkscape:cx="538.20773"
+     inkscape:cy="294.64679"
      inkscape:document-units="mm"
-     inkscape:current-layer="svg847"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="855"
@@ -377,7 +377,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -387,13 +387,6 @@
      inkscape:label="texte"
      style="display:inline"
      transform="translate(-16.899206,-12.181235)">
-    <path
-       style="fill:none;stroke:#b3b3b3;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 276.79091,78.058526 c -26.09199,0 -52.18422,0 -78.27673,0"
-       id="path1048"
-       inkscape:connector-curvature="0"
-       inkscape:path-effect="#path-effect1050"
-       inkscape:original-d="m 276.79091,78.058526 c -26.09199,-2.64e-4 -52.18422,-2.64e-4 -78.27673,0" />
     <path
        inkscape:original-d="m 276.79091,106.10437 c -9.14794,-2.6e-4 -18.29613,-2.6e-4 -27.44459,0"
        inkscape:path-effect="#path-effect1054"
@@ -431,16 +424,6 @@
          id="tspan1240"
          x="179.49193"
          y="167.53699">NODES</tspan></text>
-    <text
-       id="text1037"
-       y="76.441528"
-       x="219.23685"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan1039"
-         x="219.23685"
-         y="76.441528">MASTER SERVER</tspan></text>
   </g>
   <g
      inkscape:label="Calque 1"
