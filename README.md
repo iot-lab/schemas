@@ -14,6 +14,10 @@ C - Interact
 D - Total
 ![design-infra-total](Images/design-infra-total.png)
 
+## Hardware design
+
+![design-hardware](Images/design-hardware.png)
+
 ## Serial link
 
 ![serial-link](Images/serial-link.png)
