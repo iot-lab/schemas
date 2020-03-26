@@ -582,7 +582,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.88599972"
+     inkscape:zoom="1.2045817"
      inkscape:cx="351.15924"
      inkscape:cy="214.56799"
      inkscape:document-units="mm"
@@ -615,7 +615,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -626,7 +626,7 @@
      style="display:inline">
     <path
        transform="translate(-27.482541,-179.91227)"
-       style="display:inline;fill:none;stroke:#b3b3b3;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;stroke:#999999;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 105.15921,263.54059 c -21.012533,0 -42.025344,0 -63.038424,0"
        id="path1056"
        inkscape:connector-curvature="0"
@@ -638,9 +638,9 @@
        id="text1238"
        y="261.47311"
        x="41.733734"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        xml:space="preserve"><tspan
-         style="stroke-width:0.26458332"
+         style="stroke-width:0.26458332;fill:#999999;"
          sodipodi:role="line"
          id="tspan1240"
          x="41.733734"

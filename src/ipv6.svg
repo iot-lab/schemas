@@ -783,11 +783,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1191332"
+     inkscape:zoom="1.1216883"
      inkscape:cx="391.37433"
-     inkscape:cy="179.45496"
+     inkscape:cy="179.45495"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1438"
      inkscape:window-height="855"
@@ -815,7 +815,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -823,9 +823,9 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="texte 1"
-     style="display:inline;opacity:0.4">
+     style="display:inline;opacity:1">
     <path
-       style="display:inline;fill:none;stroke:#b3b3b3;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;stroke:#999999;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 196.57306,59.321837 c 0,0 -65.93541,-2e-4 -65.93541,-2e-4 0,0 -17.31957,19.30047 -17.31957,19.30047"
        id="path1056"
        inkscape:connector-curvature="0"
@@ -836,16 +836,16 @@
        id="text1238"
        y="57.254372"
        x="136.12306"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        xml:space="preserve"><tspan
-         style="stroke-width:0.26458332"
+         style="stroke-width:0.26458332;fill:#999999;"
          sodipodi:role="line"
          id="tspan1240"
          x="136.12306"
          y="57.254372">BORDER ROUTER</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="135.15633"
        y="66.48629"
        id="text920"><tspan
@@ -853,7 +853,7 @@
          y="66.48629"
          x="135.15633"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080;stroke-width:0.26458332">2001:660:5307:3100::1</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Monaco;-inkscape-font-specification:'Monaco, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#999999;stroke-width:0.26458332;">2001:660:5307:3100::1</tspan></text>
     <path
        sodipodi:nodetypes="ccc"
        inkscape:original-d="m 197.10223,39.74267 -65.93541,-2e-4 h -9.91124"
@@ -861,10 +861,10 @@
        inkscape:connector-curvature="0"
        id="path1048"
        d="m 197.10223,39.74267 c 0,0 -65.93541,-2e-4 -65.93541,-2e-4 0,0 -9.91124,0 -9.91124,0"
-       style="display:inline;fill:none;stroke:#b3b3b3;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="display:inline;fill:none;stroke:#999999;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="140.52121"
        y="37.675198"
        id="text1055"><tspan
@@ -872,7 +872,7 @@
          x="140.52121"
          id="tspan1053"
          sodipodi:role="line"
-         style="fill:#b3b3b3;stroke-width:0.26458332">IPv6 over SERIAL</tspan></text>
+         style="fill:#999999;stroke-width:0.26458332;">IPv6 over SERIAL</tspan></text>
   </g>
   <g
      inkscape:label="Calque 1"

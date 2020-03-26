@@ -16,7 +16,7 @@
    id="svg847"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="monitoring.svg"
-   inkscape:export-filename="/Users/vandaele/Documents/fun/senslab/www-iotlab/schemas/Images/monitoring3.png"
+   inkscape:export-filename="/Users/vandaele/Documents/fun/senslab/www-iotlab/schemas/Images/monitoring.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
   <defs
@@ -408,11 +408,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.78395062"
-     inkscape:cx="393.53609"
-     inkscape:cy="188.14567"
+     inkscape:zoom="1.7185706"
+     inkscape:cx="205.19687"
+     inkscape:cy="186.78313"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="855"
@@ -449,7 +449,7 @@
      style="display:inline"
      transform="translate(-90.27691,-96.440794)">
     <path
-       style="fill:none;stroke:#b3b3b3;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#999999;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 188.42002,137.85439 c -14.98264,0 -29.96555,0 -44.94873,0"
        id="path1056"
        inkscape:connector-curvature="0"
@@ -460,7 +460,7 @@
        id="text1238"
        y="135.78696"
        x="153.03357"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan1240"

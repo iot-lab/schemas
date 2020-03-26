@@ -16,7 +16,7 @@
    id="svg847"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="design-infra.svg"
-   inkscape:export-filename="/Users/vandaele/Documents/fun/senslab/www-iotlab/schemas/Images/design-infra-layers.png"
+   inkscape:export-filename="/Users/vandaele/Documents/fun/senslab/www-iotlab/schemas/Images/design-infra-minimal.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
   <defs
@@ -348,9 +348,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.78395062"
-     inkscape:cx="538.20773"
-     inkscape:cy="294.64679"
+     inkscape:zoom="0.86073107"
+     inkscape:cx="491.4427"
+     inkscape:cy="348.24074"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -385,7 +385,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="texte"
-     style="display:inline"
+     style="display:none"
      transform="translate(-16.899206,-12.181235)">
     <path
        inkscape:original-d="m 276.79091,106.10437 c -9.14794,-2.6e-4 -18.29613,-2.6e-4 -27.44459,0"
@@ -393,10 +393,10 @@
        inkscape:connector-curvature="0"
        id="path1052"
        d="m 276.79091,106.10437 c -9.14794,0 -18.29613,0 -27.44459,0"
-       style="fill:none;stroke:#b3b3b3;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;stroke:#999999;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#b3b3b3;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;stroke:#999999;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 204.29504,169.60441 c -11.45487,0 -22.91,0 -34.3654,0"
        id="path1056"
        inkscape:connector-curvature="0"
@@ -405,7 +405,7 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="257.47797"
        y="105.07935"
        id="text1234"><tspan
@@ -413,12 +413,12 @@
          id="tspan1232"
          x="257.47797"
          y="105.07935"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;stroke-width:0.26458332">SITES</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#999999;stroke:none;stroke-width:0.26458332">SITES</tspan></text>
     <text
        id="text1238"
        y="167.53699"
        x="179.49193"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan1240"
@@ -604,7 +604,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="outils-texte"
-     style="display:inline"
+     style="display:none"
      transform="translate(-16.899206,-12.181235)">
     <text
        xml:space="preserve"
