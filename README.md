@@ -16,7 +16,11 @@ D - Total
 
 ## Hardware design
 
-![design-hardware](Images/design-hardware.png)
+1 - Microcontroller
+![design-hardware](Images/design-hard-micro.png)
+
+2 - Embedded Linux
+![design-hardware](Images/design-hard-linux.png)
 
 ## Serial link
 
