@@ -48,4 +48,8 @@ D - Total
 
 ## IPv6
 
-![ssh-cli](Images/ipv6.png)
+1 - Microcontroller
+![ssh-cli](Images/ipv6-micro.png)
+
+2 - Embedded Linux
+![ssh-cli](Images/ipv6-linux.png)
