@@ -31,6 +31,9 @@ C - Interact
 D - Total
 ![design-infra-total](Images/design-infra-total.png)
 
+E - MOOC
+![design-infra-mooc](Images/design-infra-mooc.png)
+
 ## Hardware design
 
 1 - Microcontroller
